@@ -1,1 +1,3 @@
-# mestrado
+# DISSERTAÇÃO DE MESTRADO - VERSÃO MARKDOWN
+
+- Em construção.
